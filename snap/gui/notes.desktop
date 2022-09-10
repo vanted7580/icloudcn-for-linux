@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.11
+Name=iCloud Notes
+GenericName=iCloud Notes
+Comment=iCloud Notes
+Type=Application
+Icon=${SNAP}/meta/gui/notes.png
+Exec=icloudcn-for-linux.notes
+StartupWMClass=icloudcn-for-linux.notes

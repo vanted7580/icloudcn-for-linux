@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.11
+Name=iCloud Pages
+GenericName=iCloud Pages
+Comment=iCloud Pages
+Type=Application
+Icon=${SNAP}/meta/gui/pages.png
+Exec=icloudcn-for-linux.pages
+StartupWMClass=icloudcn-for-linux.pages

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.11
+Name=iCloud Contacts
+GenericName=iCloud Contacts
+Comment=iCloud Contacts
+Type=Application
+Icon=${SNAP}/meta/gui/contacts.png
+Exec=icloudcn-for-linux.contacts
+StartupWMClass=icloudcn-for-linux.contacts

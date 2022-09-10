@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.11
+Name=iCloud Keynote
+GenericName=iCloud Keynote
+Comment=iCloud Keynote
+Type=Application
+Icon=${SNAP}/meta/gui/keynote.png
+Exec=icloudcn-for-linux.keynote
+StartupWMClass=icloudcn-for-linux.keynote

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.11
+Name=iCloud Photos
+GenericName=iCloud Photos
+Comment=iCloud Photos
+Type=Application
+Icon=${SNAP}/meta/gui/photos.png
+Exec=icloudcn-for-linux.photos
+StartupWMClass=icloudcn-for-linux.photos
