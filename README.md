@@ -1,8 +1,6 @@
 # icloudcn-for-linux
 ## Build from source 构建源码
 ```
-sudo apt install snapcraft
-cd "sourc/folder"
 sudo snapcraft
 ```
 ## Installation 安装
